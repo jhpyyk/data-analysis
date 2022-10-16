@@ -1,0 +1,11 @@
+Variable,Description,Variable type
+ticket,ticket type,categorical
+cost,paid fee in euros,quantitative
+month,calendar month during which the trip was made,categorical
+location_from,start location of the trip,categorical
+location_to,end location of the trip,categorical
+duration,travel time in seconds,quantitative
+distance,travel distance in meters,quantitative
+assistance,"status of electric assistance (0 = disabled, 1 = enabled)",categorical
+energy_used,energy consumed by the bike in watt-hours,quantitative
+energy_collected,energy collected by the bike in watt-hours,quantitative
